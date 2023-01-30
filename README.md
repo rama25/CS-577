@@ -1,4 +1,4 @@
-# CS-577
+# CS-577 UW Madison
 Intro to Algorithms
 
 This course provides an design and analysis of algorithms. The main focus lies on techniques for constructing correct efficient algorithms and on tools to reason about them. Design paradigms include greed, divide-and-conquer, dynamic programming, reductions, and randomness (time permitting). A second focus point is computational intractability. NP-complete problems are covered, as well as ways to deal with them.
