@@ -1,0 +1,6 @@
+all:	build run
+
+build:
+	gcc -o exec_name FurthestInFuture.c
+run:
+	./ exec_name
